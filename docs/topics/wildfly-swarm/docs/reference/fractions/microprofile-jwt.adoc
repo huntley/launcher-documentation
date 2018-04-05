@@ -1,0 +1,24 @@
+= MicroProfile JWT RBAC Auth Fraction
+
+
+.Maven Coordinates
+[source,xml]
+----
+<dependency>
+  <groupId>org.wildfly.swarm</groupId>
+  <artifactId>microprofile-jwt</artifactId>
+</dependency>
+----
+
+.Configuration
+
+swarm.microprofile.jwtauth.token.expGracePeriod:: 
+The JWT token expiration grace period in seconds 
+
+swarm.microprofile.jwtauth.token.issuedBy:: 
+The URI of the JWT token issuer
+
+swarm.microprofile.jwtauth.token.signerPubKey:: 
+The public key of the JWT token signer
+
+

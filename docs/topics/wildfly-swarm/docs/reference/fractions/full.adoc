@@ -1,10 +1,15 @@
-= Web
+= Full
 
-Provides a collection of fractions equivalent to the _Web Profile_:
+Provides a collection of fractions equivalent to the _Full Platform:
 
 * Bean Validation
+* Batch
 * CDI
+* Datasources
 * EJB
+* EJB-Remote
+* JCA
+* JMX
 * JAX-RS
 ** JSON-P
 ** JAXB
@@ -12,8 +17,12 @@ Provides a collection of fractions equivalent to the _Web Profile_:
 ** Validator
 * JPA
 * JSF
+* Mail
+* Messaging
+* Resource Adapters
 * Transactions
 * Undertow (Servlets)
+* WebServices
 
 
 .Maven Coordinates
@@ -21,7 +30,7 @@ Provides a collection of fractions equivalent to the _Web Profile_:
 ----
 <dependency>
   <groupId>org.wildfly.swarm</groupId>
-  <artifactId>web</artifactId>
+  <artifactId>full</artifactId>
 </dependency>
 ----
 

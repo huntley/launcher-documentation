@@ -1,3 +1,7 @@
+include::fractions/archaius.adoc[leveloffset=+0]
+
+include::fractions/batch-jberet.adoc[leveloffset=+0]
+
 include::fractions/bean-validation.adoc[leveloffset=+0]
 
 include::fractions/cdi.adoc[leveloffset=+0]
@@ -14,7 +18,15 @@ include::fractions/ee.adoc[leveloffset=+0]
 
 include::fractions/ejb.adoc[leveloffset=+0]
 
+include::fractions/ejb-remote.adoc[leveloffset=+1]
+
+include::fractions/elytron.adoc[leveloffset=+0]
+
+include::fractions/full.adoc[leveloffset=+0]
+
 include::fractions/hibernate-validator.adoc[leveloffset=+0]
+
+include::fractions/hystrix.adoc[leveloffset=+0]
 
 include::fractions/io.adoc[leveloffset=+0]
 
@@ -32,6 +44,8 @@ include::fractions/jaxrs-validator.adoc[leveloffset=+1]
 
 include::fractions/jca.adoc[leveloffset=+0]
 
+include::fractions/jgroups.adoc[leveloffset=+0]
+
 include::fractions/jmx.adoc[leveloffset=+0]
 
 include::fractions/jpa.adoc[leveloffset=+0]
@@ -44,9 +58,23 @@ include::fractions/keycloak.adoc[leveloffset=+0]
 
 include::fractions/logging.adoc[leveloffset=+0]
 
+include::fractions/mail.adoc[leveloffset=+0]
+
 include::fractions/management.adoc[leveloffset=+0]
 
+include::fractions/messaging.adoc[leveloffset=+0]
+
 include::fractions/microprofile.adoc[leveloffset=+0]
+
+include::fractions/microprofile-config.adoc[leveloffset=+1]
+
+include::fractions/microprofile-fault-tolerance.adoc[leveloffset=+1]
+
+include::fractions/microprofile-health.adoc[leveloffset=+1]
+
+include::fractions/microprofile-jwt.adoc[leveloffset=+1]
+
+include::fractions/microprofile-metrics.adoc[leveloffset=+1]
 
 include::fractions/monitor.adoc[leveloffset=+0]
 
@@ -54,9 +82,17 @@ include::fractions/msc.adoc[leveloffset=+0]
 
 include::fractions/naming.adoc[leveloffset=+0]
 
+include::fractions/netflix-guava.adoc[leveloffset=+0]
+
+include::fractions/netflix-rxjava.adoc[leveloffset=+0]
+
+include::fractions/opentracing.adoc[leveloffset=+0]
+
 include::fractions/remoting.adoc[leveloffset=+0]
 
 include::fractions/request-controller.adoc[leveloffset=+0]
+
+include::fractions/resource-adapters.adoc[leveloffset=+0]
 
 include::fractions/security.adoc[leveloffset=+0]
 
@@ -71,4 +107,6 @@ include::fractions/transactions.adoc[leveloffset=+0]
 include::fractions/undertow.adoc[leveloffset=+0]
 
 include::fractions/web.adoc[leveloffset=+0]
+
+include::fractions/webservices.adoc[leveloffset=+0]
 
