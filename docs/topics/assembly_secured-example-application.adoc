@@ -10,8 +10,7 @@
 [id='example-rest-http-secured-{parameter-runtime-anchor}']
 = {name-example-secured} example application for {runtime}
 
-Example proficiency level:
-xref:proficiency_advanced[*{proficiency-advanced}*].
+Example proficiency level: xref:proficiency_advanced[*{proficiency-advanced}*]
 
 The {name-example-secured} example application expands on the {name-example-http-api} example application by securing a REST endpoint using link:https://access.redhat.com/products/red-hat-single-sign-on[{RHSSO}^].
 {RHSSO} implements the link:https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.1/html/securing_applications_and_services_guide/openid_connect_3[Open ID Connect] protocol, which is an extension of the OAuth 2.0 specification.
